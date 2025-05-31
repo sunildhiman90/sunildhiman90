@@ -29,7 +29,8 @@
 - 🛠️ **Main Focus:** Android (Kotlin, Jetpack Compose), Kotlin Multiplatform (KMP), Compose Multiplatform, Spring Boot, Ktor Server & Generative AI.
 - 🚀 **Exploring:** Flutter, SwiftUI, Next.js, Python, FastAPI.
 - 🌱 Currently learning more about full-stack mobile/web development and backend APIs.
-- 💬 Ask me about Android, KMP, Ktor, or any of the new technologies I'm exploring!
+- 🎬 I love teaching Android, KMP, Ktor and other technologies on [YouTube](https://www.youtube.com/@codingambitions).
+- 💬 Ask me about Android, KMP, Ktor, Spring Boot or any of the new technologies I'm exploring!
 - 📫 How to reach me: sunil.dhiman90@gmail.com
 - ⚡ Fun fact: I love open source, experimenting with new frameworks and sharing tech knowledge.
 
