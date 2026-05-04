@@ -1,63 +1,86 @@
-<h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">With over 10 years of experience in software development, I specialize in building high-quality Android & iOS apps, cross-platform solutions using Kotlin Multiplatform and Compose Multiplatform, and robust backend APIs with Ktor/Spring Boot. I am always eager to explore other technologies like Flutter, SwiftUI, Next.js, Python, and FastAPI. I love contributing to and creating open source projects.</h3>
+# Hi, I'm Sunil Kumar 👋
 
+**Android & KMP Engineer · 10 years experience · Author of [KMAuth](https://github.com/sunildhiman90/KotlinMultiplatformAuth)**
 
-<p align="center">
-  <b>PRIMARY SKILLS:</b>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
-  <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform"/>
-  <img src="https://img.shields.io/badge/Ktor_Server-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>OTHER SKILLS:</b>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+I help teams ship Android and iOS apps from a single Kotlin codebase using Kotlin Multiplatform and Compose Multiplatform. I'm open to part-time contracts — reach me at sunil.dhiman90@gmail.com.
 
 ---
 
-👨‍💻 **About Me:**
+## 🏆 Featured: KotlinMultiplatformAuth (KMAuth)
 
-- 🔭 I’m passionate about building robust apps and cross-platform solutions for mobile and backend.
-- 🛠️ **Main Focus:** Android (Kotlin, Jetpack Compose), Kotlin Multiplatform (KMP), Compose Multiplatform, Spring Boot, Ktor Server & Generative AI.
-- 🚀 **Exploring:** Flutter, SwiftUI, Next.js, Python, FastAPI.
-- 🌱 Currently learning more about full-stack mobile/web development and backend APIs.
-- 🎬 I love teaching Android, KMP, Ktor and other technologies on [YouTube](https://www.youtube.com/@codingambitions).
-- 💬 Ask me about Android, KMP, Ktor, Spring Boot or any of the new technologies I'm exploring!
-- 📫 How to reach me: sunil.dhiman90@gmail.com
-- ⚡ Fun fact: I love open source, experimenting with new frameworks and sharing tech knowledge.
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.sunildhiman90/kmauth-google?color=blue)](https://central.sonatype.com/search?q=io.github.sunildhiman90+kmauth&smo=true)
+[![Stars](https://img.shields.io/github/stars/sunildhiman90/KotlinMultiplatformAuth?style=flat)](https://github.com/sunildhiman90/KotlinMultiplatformAuth/stargazers)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
----
+Production-ready KMP auth library — Google, Apple, GitHub, Twitter, Supabase — targeting Android, iOS, Desktop and Web from one Kotlin codebase. Published on Maven Central.
 
-**🌟 Open Source Projects:**
-- [Recipe App KMP Compose Multiplatform](https://github.com/sunildhiman90/RecipeApp-KMP-Compose-Multiplatform) – A clean architecture Compose Multiplatform App for Android, IOS, Desktop and Web platforms. It demonstrates the use of Koin for Dependency Injection, Ktor for Networking, SQLDelight for Persitence and Compose Navigation for navigation and Compose ViewModel for business logic in Kotlin Multiplatform for Android, iOS, Web and Desktop platforms. 
-- [Shopping App - Compose Multiplatform](https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App) – A Compose Multiplatform App for Android, IOS, Desktop and Web platforms. It demonstrates the use of Koin for Dependency Injection, Ktor for Networking, SQLDelight for Persitence and Decompose for navigation and business logic components.
-- [Blog CRUD Api - Ktor Server](https://github.com/sunildhiman90/ktor-blog-crud-api) – A Blog CRUD Api With JWT Authentication. It demonstrates the use of Exposed, Mysql Database & JWT Authentication in Ktor Server
+```kotlin
+// One API. Every platform.
+val result = googleAuthManager.signIn()
+```
+
+→ [View KMAuth on GitHub](https://github.com/sunildhiman90/KotlinMultiplatformAuth)
 
 ---
 
-**🌟 Open Source Libraries:**
-- [KotlinMultiplatformAuth](https://github.com/sunildhiman90/KotlinMultiplatformAuth) – Kotlin Multiplatform Authentication Library Targeting Android, iOS, Desktop and Kotlin/Js.
+## 🛠 Core Skills
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor_Server-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
-**📈 GitHub Stats:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunildhiman90&show_icons=true&theme=radical" alt="Sunil Kumar's stats"/>
-</p>
+## 🤖 AI & Gen AI
+
+Building AI-powered apps using LLMs, Agentic AI and on-device ML — integrated into Android and KMP projects. See [Aegis](https://github.com/sunildhiman90/aegis) for a real example.
+
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+## 🌟 Open Source Projects
+
+### [KotlinMultiplatformAuth](https://github.com/sunildhiman90/KotlinMultiplatformAuth)
+Production-ready KMP auth library. Google Sign-In without 3rd party dependencies, Apple Sign-In, and full Supabase OAuth (GitHub, Twitter, Facebook) — all targets: Android, iOS, Desktop, Web (Kotlin/JS + WASM). On Maven Central.
+
+### [RecipeApp KMP](https://github.com/sunildhiman90/RecipeApp-KMP-Compose-Multiplatform)
+Full KMP app targeting Android, iOS, Desktop and Web — clean architecture, Koin DI, Ktor networking, SQLDelight persistence, Compose Navigation and ViewModel.
+
+### [Gemini AI Chatbot — Android](https://github.com/sunildhiman90/GeminiFirebaseAiChatbotAndroid)
+AI chatbot for Android built with Gemini and Firebase AI Logic SDK — Jetpack Compose UI with real-time streaming responses.
+
+### [Ktor Blog API](https://github.com/sunildhiman90/ktor-blog-crud-api)
+Production-style REST API in Ktor — full CRUD, JWT authentication, MySQL via Exposed ORM.
+
+### [FirebaseKMP](https://github.com/sunildhiman90/FirebaseKMP-Compose)
+Firebase authentication integrated into a Compose Multiplatform app — Android and iOS from one codebase.
 
 ---
 
-**🌐 Let's Connect!**
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunildhiman90"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://www.x.com/sunildhiman90"><img src="https://img.shields.io/badge/Twitter(X)-black?style=flat&logo=x"></a>
-  <a href="https://www.youtube.com/@codingambitions"><img src="https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube"></a>
-</p>
+## 📺 CodingAmbitions
+
+I share KMP, Android, and Ktor content on YouTube and Instagram.
+
+[![YouTube](https://img.shields.io/badge/YouTube-CodingAmbitions-red?style=flat&logo=youtube)](https://www.youtube.com/@codingambitions)
+[![Instagram](https://img.shields.io/badge/Instagram-@codingambitions-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codingambitions)
+
+---
+
+## 📈 GitHub Stats
+
+![Sunil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunildhiman90&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunildhiman90&layout=compact&theme=radical&hide_border=true)
+
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunildhiman90-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sunildhiman90)
+[![Twitter/X](https://img.shields.io/badge/Twitter-sunildhiman90-black?style=flat&logo=x)](https://www.x.com/sunildhiman90)
+
+📩 **Open to part-time KMP/Android contracts** → sunil.dhiman90@gmail.com
