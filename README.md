@@ -35,7 +35,7 @@ val result = googleAuthManager.signIn()
 
 ## 🤖 AI & Gen AI
 
-Building AI-powered apps using LLMs, Agentic AI and on-device ML — integrated into Android and KMP projects. See [Aegis](https://github.com/sunildhiman90/aegis) for a real example.
+Building AI-powered apps using LLMs, Agentic AI and on-device ML — integrated into Android and KMP projects. See [Gemini AI Chatbot](https://github.com/sunildhiman90/GeminiFirebaseAiChatbotAndroid) for a real example.
 
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white)
