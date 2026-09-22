@@ -1,6 +1,6 @@
 # Hi, I'm Sunil Kumar 👋
 
-**Android & KMP Engineer · 10 years experience · Author of [KMAuth](https://github.com/sunildhiman90/KotlinMultiplatformAuth)**
+**Android & KMP Engineer · 11 years experience · Author of [KMAuth](https://github.com/sunildhiman90/KotlinMultiplatformAuth)**
 
 I help teams ship Android and iOS apps from a single Kotlin codebase using Kotlin Multiplatform and Compose Multiplatform. I'm open to part-time contracts — reach me at sunil.dhiman90@gmail.com.
 
@@ -49,7 +49,7 @@ Production-ready KMP auth library. Google Sign-In without 3rd party dependencies
 ### [RecipeApp KMP](https://github.com/sunildhiman90/RecipeApp-KMP-Compose-Multiplatform)
 Full KMP app targeting Android, iOS, Desktop and Web — clean architecture, Koin DI, Ktor networking, SQLDelight persistence, Compose Navigation and ViewModel.
 
-### [Linksnap-KMP](https://github.com/sunildhiman90/Linksnap-kmp)
+### [Linksnap-AI-KMP](https://github.com/sunildhiman90/Linksnap-kmp)
 AI Link Summariser Full stack Kotlin Multiplatform App with Compose UI, Ktor Backend and Gemini AI for all Platforms Android, iOS, desktop and web.
 
 ### [Gemini AI Chatbot — Android](https://github.com/sunildhiman90/GeminiFirebaseAiChatbotAndroid)
