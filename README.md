@@ -49,14 +49,14 @@ Production-ready KMP auth library. Google Sign-In without 3rd party dependencies
 ### [RecipeApp KMP](https://github.com/sunildhiman90/RecipeApp-KMP-Compose-Multiplatform)
 Full KMP app targeting Android, iOS, Desktop and Web — clean architecture, Koin DI, Ktor networking, SQLDelight persistence, Compose Navigation and ViewModel.
 
+### [Linksnap-KMP](https://github.com/sunildhiman90/Linksnap-kmp)
+AI Link Summariser Full stack Kotlin Multiplatform App with Compose UI, Ktor Backend and Gemini AI for all Platforms Android, iOS, desktop and web.
+
 ### [Gemini AI Chatbot — Android](https://github.com/sunildhiman90/GeminiFirebaseAiChatbotAndroid)
 AI chatbot for Android built with Gemini and Firebase AI Logic SDK — Jetpack Compose UI with real-time streaming responses.
 
 ### [Ktor Blog API](https://github.com/sunildhiman90/ktor-blog-crud-api)
 Production-style REST API in Ktor — full CRUD, JWT authentication, MySQL via Exposed ORM.
-
-### [FirebaseKMP](https://github.com/sunildhiman90/FirebaseKMP-Compose)
-Firebase authentication integrated into a Compose Multiplatform app — Android and iOS from one codebase.
 
 ---
 
